@@ -1,0 +1,72 @@
+{
+    "objective": {},
+    "experience": [
+        "artificial intelligence intern at flipper code pvt ltd. sept 2021 feb 2022",
+        "created projects as per client requirements based on machine, deep learning and computer vision.",
+        "deploying the projects to web applications and apis using git, flask & heroku.",
+        "published blogs for the major projects worked on during the internship period.",
+        "machine learning intern at grroom",
+        "jun 2021 jul 2021",
+        "machine learning research works- web scraping, data preparation model selection, model training and improving scores.",
+        "data collection and annotations for various image processing and computer vision tasks."
+    ],
+    "education_and_training": {
+        "education": [
+            "education",
+            "b.tech, electronics and communication engineering galgotias college of engineering and technology, 75% jul 2018jun 2022",
+            "higher secondary (isc) st. johns school d.l.w, varanasi, 85.4 % apr 2016mar 2017",
+            "high school (icse) st. johns school d.l.w, varanasi 90.6 % apr 2014mar 2015"
+        ],
+        "certifications": [
+            "certifications",
+            "certified by coursera for machine learning course.",
+            "credential url: https://www.coursera.org/account/accomplishments/certificate/7a3lpnb748za",
+            "certified by huawei under hcia-ai (2020-2021)",
+            "co-curricular activities",
+            "active member of technical and coding club of college and handling its events",
+            "dance, art and craft, content writing",
+            "extracted links",
+            "github.com/mdtaha11 linkedin.com/in/mohammadtahaali"
+        ]
+    },
+    "skills": {
+        "technical skills": [
+            "technical skills"
+        ],
+        "programming languages": [
+            "programming languages: python, java, c"
+        ],
+        "technologies": [
+            "technologies used: lof, correlation map, smote, machine learning, random forest classifier",
+            "removing outliers using inter-quartile range (iqr), smote-tomek links for handling imbalanced dataset, feature selection",
+            "using correlation map, random forest classifier for classification. accuracy achieved was 89%."
+        ]
+    },
+    "accomplishments": {
+        "projects": [
+            "projects",
+            "hybrid deep neural network for covid-19 detection through x-ray images"
+        ],
+        "publications": [
+            "publications",
+            "published a research paper on the project crime prediction, analysis and criminal tracking in international conference on",
+            "emerging trends in engineering and technology (icetet-2021)",
+            "blog published on the project multiclass classification on highly imbalanced dataset\"",
+            "url- https://www.aitude.com/multiclass-classification-on-highly-imbalanced-dataset/",
+            "blog published on the project motion detection with path tracking which tracks motion of object and plots the path trails.",
+            "url- https://www.aitude.com/motion-detection-with-path-tracking/"
+        ],
+        "achievement": [
+            "achievements",
+            "completed my 6-months paid internship with sheer determination and gained experience of working in ai - industry.",
+            "led my team to win first prize in product launch activity organised by school of lifelong learning, gcet (2019-20)",
+            "organised a quiz competition based on ai and machine learning in fest organised by enthiran, gcet (2020-2021)"
+        ]
+    },
+    "misc": {},
+    "profile": [
+        "mohammad taha ali",
+        "varanasi, uttar pradesh",
+        "+91-9140893593 | mohammadtahaali11@gmail.com | www.linkedin.com/in/mohammadtahaali | www.github.com/mdtaha11"
+    ]
+}
