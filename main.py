@@ -19,6 +19,7 @@ print(resume_lines)
 with open("resume_parsed_info.txt", "w") as outfile:
     outfile.write(resume_lines)
 
+## Object
 segmenter = ResumeSegmenter()
 resume_segments = segmenter.segment(resume_lines)
 
@@ -35,3 +36,4 @@ email_and_phone = parser_obj.profile_information_parser(resume_lines)
 
 with open("email_and_phone.json", "w") as outfile:
     json.dump(email_and_phone, outfile, indent=4)
+
