@@ -49,25 +49,25 @@
 
 
 """ Phrase Matcher """
+# import spacy
+# from spacy.matcher import PhraseMatcher
+# nlp = spacy.load("en_core_web_md")
+# matcher = PhraseMatcher(nlp.vocab)
 
-import spacy
-from spacy.matcher import PhraseMatcher
-nlp = spacy.load("en_core_web_md")
-matcher = PhraseMatcher(nlp.vocab)
+# #create the list of words to match
+# lang_list = ['Python','C++','Java']
 
-#create the list of words to match
-lang_list = ['Python','C++','Java']
-
-#obtain doc object for each word in the list and store it in a list
-patterns = [nlp(lang) for lang in lang_list]
-#add the pattern to the matcher
-matcher.add("PROGRAMMING_LANGUAGE", patterns)
-#process some text
-doc = nlp("Python requires less typing, provides new libraries, fast prototyping, and several other new features. C++ as of today in its efficiency, speed, and memory make it widely popular among coders. Java is platform-independent")
-matches = matcher(doc)
-for match_id, start, end in matches:
- span = doc[start:end]
- print(span.text)
+# #obtain doc object for each word in the list and store it in a list
+# patterns = [nlp(lang) for lang in lang_list]
+# #add the pattern to the matcher
+# matcher.add("PROGRAMMING_LANGUAGE", patterns)
+# #process some text
+# doc = nlp("Python requires less typing, provides new libraries, fast prototyping, and several other new features. C++ as of today in its efficiency, speed, and memory make it widely popular among coders. Java is platform-independent")
+# matches = matcher(doc)
+# for match_id, start, end in matches:
+#  span = doc[start:end]
+#  print(span.text)
+# 
  
  
 """ Regex Matcher """
